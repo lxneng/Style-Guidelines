@@ -1,5 +1,6 @@
 CSS Code Guideline
-===================
+====================
+
 
 
 - 尽可能的通过继承和层叠重用已有的样式
@@ -124,3 +125,8 @@ CSS Code Guideline
 - 不要在CSS中使用 `!important`
 
 - 绝对不要在CSS中使用 "*" 选择符 
+
+Reference:
+~~~~~~~~~~
+    - `豆瓣CSS开发规范 <http://goo.gl/K3W2g>`_
+    

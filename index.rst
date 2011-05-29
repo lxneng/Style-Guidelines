@@ -5,8 +5,9 @@ Guidelines
 -----------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     guidelines/Python
     guidelines/CSS
     guidelines/Ruby
+    guidelines/JavaScript
