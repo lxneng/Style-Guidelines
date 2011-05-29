@@ -7,4 +7,5 @@ Guidelines
 .. toctree::
     :maxdepth: 2
 
-    guidelines
+    guidelines/Python
+    guidelines/CSS
