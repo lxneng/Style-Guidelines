@@ -11,3 +11,4 @@ Guidelines
     guidelines/CSS
     guidelines/Ruby
     guidelines/JavaScript
+    guidelines/Objective-C
