@@ -9,3 +9,4 @@ Guidelines
 
     guidelines/Python
     guidelines/CSS
+    guidelines/Ruby
