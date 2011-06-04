@@ -1,7 +1,6 @@
 JavaScript StyleGuide
 =======================
 
-
 Links
 ------
 

@@ -126,7 +126,13 @@ CSS Code Guideline
 
 - 绝对不要在CSS中使用 "*" 选择符 
 
-Reference:
-~~~~~~~~~~
+Links
+------
+
     - `豆瓣CSS开发规范 <http://goo.gl/K3W2g>`_
-    
+    - `inuit.css is a pragmatic, production-ready CSS framework. <https://github.com/csswizardry/inuit.css>`_
+    - `How to Manage CSS Explosion <http://stackoverflow.com/questions/2253110/how-to-manage-css-explosion>`_
+    - `Best Practices - CSS Stylesheet Formatting <http://stackoverflow.com/questions/956996/best-practices-css-stylesheet-formatting>`_
+    - `CSS Standards & Best Practices <http://www.dezinerfolio.com/2009/02/20/css-standards-best-practices>`_
+    - `Create Maintainable Code with a CSS Styleguide <http://www.louddog.com/2008/create-maintainable-code-with-a-css-styleguide/>`_
+    - `CSS Best Practices <http://www.evotech.net/blog/2007/04/css-best-practices/>`_
