@@ -12,3 +12,4 @@ Guidelines
     guidelines/Ruby
     guidelines/JavaScript
     guidelines/Objective-C
+    guidelines/Newsletter

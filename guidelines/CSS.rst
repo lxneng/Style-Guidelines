@@ -24,22 +24,27 @@ CSS Code Guideline
       -webkit-border-radius:4px;-moz-border-radius:4px;border-radius: 4px;
 
 
-- 将作用于不同模块的CSS规则集中放在一起，同时用注释说明
+  - 注释的格式
 
-    注释的格式
-
-    ::
+    .. code-block:: css
     
-      /* mod: doulist */
-      通用规则同样分类放在一起。通用规则在具体模块规则的前面。如：
-      /* button */
-      ...
-      /* mod */
-      ...
-      /* nav */
-      ...
-      /* mod: events album */
-  
+      /* =home-page
+      ---------------------------------------------- */
+        /* =intro
+          ---------------------------------------------- */
+        #home-page #intro {
+            ...
+        }
+        /* ------------------------------------------- */
+
+        /* =featured articles & popular articles
+          ---------------------------------------------- */
+        #home-page #featured-articles, #home-page #popular-articles {
+            ...
+        }
+        /* ------------------------------------------- */
+      /* ------------------------------------------- */  
+       
 
 - ID和Class命名。命名不要用缩写，单词间用"-"做为连接符
 
