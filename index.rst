@@ -8,8 +8,9 @@ Guidelines
     :maxdepth: 1
 
     guidelines/Python
-    guidelines/CSS
     guidelines/Ruby
-    guidelines/JavaScript
     guidelines/Objective-C
+    guidelines/JavaScript
+    guidelines/CSS
+    guidelines/HTML
     guidelines/Newsletter
